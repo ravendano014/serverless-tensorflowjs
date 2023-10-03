@@ -1,15 +1,28 @@
-# 用OpenWhisk和Tensorflow开发无服务器图片识别应用
+# Desarrollando una Aplicación de Reconocimiento de Imágenes sin Servidor con OpenWhisk y TensorFlow
 
-## 摘要
-Apache OpenWhisk是一款开源的无服务器平台，IBM云平台上的IBM Functions的内核使用的就是Apache OpenWhisk。无服务器平台通常在运行时间、内存、无状态等方面对运行在其上的应用有一定的限制。
-使用Tensorflow进行图片识别是一个典型的机器学习领域的应用场景，本文将介绍将图片识别应用部署到无服务器平台时会碰到的问题，解决方法以及最佳实践。
+**Resumen**
 
-## 目录
-- 简介Serverless和Apache OpenWhisk
-- 将机器学习应用部署到无服务器平台时碰到的挑战
-- 以基于Tesorflow的图片识别应用为例，以使用Apache OpenWhisk的IBM Functions为平台，一步步讲述如何将图片识别应用部署到无服务器平台上去
-- 总结最佳实践
+Apache OpenWhisk es una plataforma sin servidor de código abierto, y el núcleo de IBM Functions en la plataforma IBM Cloud se basa en Apache OpenWhisk. Las plataformas sin servidor a menudo imponen ciertas limitaciones a las aplicaciones que se ejecutan en ellas, como tiempo de ejecución, memoria y falta de estado. El reconocimiento de imágenes utilizando TensorFlow es una aplicación típica en el campo del aprendizaje automático. Este artículo presentará los desafíos, soluciones y mejores prácticas al implementar una aplicación de reconocimiento de imágenes en una plataforma sin servidor.
 
-## Serverless和Apache OpenWhisk
+**Tabla de Contenidos**
 
+1. Introducción a Sin Servidor y Apache OpenWhisk
+2. Desafíos al Implementar Aplicaciones de Aprendizaje Automático en una Plataforma sin Servidor
+3. Implementación de una Aplicación de Reconocimiento de Imágenes en una Plataforma sin Servidor Utilizando Apache OpenWhisk y TensorFlow como Ejemplo
+4. Resumen de las Mejores Prácticas
 
+**Introducción a Sin Servidor y Apache OpenWhisk**
+
+(No se proporciona texto específico en el documento original)
+
+**Desafíos al Implementar Aplicaciones de Aprendizaje Automático en una Plataforma sin Servidor**
+
+(No se proporciona texto específico en el documento original)
+
+**Implementación de una Aplicación de Reconocimiento de Imágenes en una Plataforma sin Servidor Utilizando Apache OpenWhisk y TensorFlow como Ejemplo**
+
+(No se proporciona texto específico en el documento original)
+
+**Resumen de las Mejores Prácticas**
+
+(No se proporciona texto específico en el documento original)
